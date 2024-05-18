@@ -1,0 +1,1 @@
+git init => initialize the git in our project folder
