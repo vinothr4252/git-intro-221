@@ -1,1 +1,12 @@
+
+
+
 git init => initialize the git in our project folder
+git status => to check thr statusof the file
+git add [filename] => add that file to stage and ready for commit
+git commit -m 'message' => create the version /commit changes
+git log => to see all commits
+git reset --hard  loghash => to rollback to the previous version
+git reset --soft  loghash => to roll baCK to the previous version without losing the code
+git add . => add all the files  in the project 
+git --version => for findingt the version
